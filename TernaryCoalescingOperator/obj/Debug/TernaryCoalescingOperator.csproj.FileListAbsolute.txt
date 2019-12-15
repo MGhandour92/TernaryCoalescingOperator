@@ -1,0 +1,6 @@
+E:\GIT\General\yt-channel\Episode 1\TernaryCoalescingOperator\TernaryCoalescingOperator\bin\Debug\TernaryCoalescingOperator.exe.config
+E:\GIT\General\yt-channel\Episode 1\TernaryCoalescingOperator\TernaryCoalescingOperator\bin\Debug\TernaryCoalescingOperator.exe
+E:\GIT\General\yt-channel\Episode 1\TernaryCoalescingOperator\TernaryCoalescingOperator\bin\Debug\TernaryCoalescingOperator.pdb
+E:\GIT\General\yt-channel\Episode 1\TernaryCoalescingOperator\TernaryCoalescingOperator\obj\Debug\TernaryCoalescingOperator.csprojAssemblyReference.cache
+E:\GIT\General\yt-channel\Episode 1\TernaryCoalescingOperator\TernaryCoalescingOperator\obj\Debug\TernaryCoalescingOperator.exe
+E:\GIT\General\yt-channel\Episode 1\TernaryCoalescingOperator\TernaryCoalescingOperator\obj\Debug\TernaryCoalescingOperator.pdb
